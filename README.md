@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Karol C. (@Kariolax)
+- 👋 Hi, I’m Karol Chmiel (@Kariolax)
 - 👀 I’m interested in : programming; automation and robotics
 - 🌱 I’m currently learning python language
 

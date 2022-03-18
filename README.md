@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karol Chmiel (@Kariolax)
 - 👀 I’m interested in : programming; automation and robotics
-- 🌱 Learning Django
+- 🌱 Currently learning Django
 
 My LinkedIn - https://www.linkedin.com/in/chmielkarol/
 <!---
